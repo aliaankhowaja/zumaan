@@ -1,2 +1,2 @@
-# zumaan
+# Zumaan
 Zuma game in MASM
